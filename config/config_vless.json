@@ -12,14 +12,14 @@
         "decryption": "none",
         "clients": [
           {
-            "id": "V2_ID"
+            "id": "1784ef47-2abd-42a3-8111-afdca2af8abf"
           }
         ]
       },
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/V2_PATH"
+          "path": "/123"
         }
       }
     }
